@@ -1,0 +1,3 @@
+spring-support：
+  new PathMatchingResourcePatternResolver() -----用于加载resource或者jarFile
+  
