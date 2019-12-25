@@ -1,4 +1,4 @@
-<mxfile modified="2019-12-25T06:45:01.697Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="QVzmeIWgK97mgOtDLW7k" version="12.4.3" type="github" pages="1">
+<mxfile modified="2019-12-25T07:01:44.691Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="mRCJ57GCZnBt811RF1Tl" version="12.4.3" type="github" pages="1">
   <diagram id="kjUhLuTlYEf19-uYpVck" name="ÃÂÃÂ§ÃÂÃÂ¬ÃÂÃÂ¬ 1 ÃÂÃÂ©ÃÂÃÂ¡ÃÂÃÂµ">
     <mxGraphModel dx="2221" dy="2790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2049,6 +2049,9 @@
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-71" value="核心骨架" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="1743" y="332" width="399" height="87" as="geometry"/>
         </mxCell>
+        <mxCell id="WuDVw0VJNBnb_lz2KvEd-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontColor=#FFFFFF;strokeColor=#CC99FF;" edge="1" parent="1" source="WuDVw0VJNBnb_lz2KvEd-74" target="WuDVw0VJNBnb_lz2KvEd-92">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-74" value="CORE" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#CC99FF;" vertex="1" parent="1">
           <mxGeometry x="1777" y="369" width="92" height="32" as="geometry"/>
         </mxCell>
@@ -2092,19 +2095,58 @@
           <mxGeometry x="1904" y="278" width="92" height="32" as="geometry"/>
         </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-92" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot; color=&quot;#FFFFFF&quot;&gt;CORE&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;fontColor=#3399FF;align=left;dashed=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1397" y="329" width="304" height="222" as="geometry"/>
+          <mxGeometry x="1322" y="332" width="372" height="292" as="geometry"/>
         </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-93" value="规则匹配层" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1431" y="356" width="82" height="29" as="geometry"/>
+          <mxGeometry x="1356" y="359" width="82" height="29" as="geometry"/>
         </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-94" value="生成执行计划层" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1431" y="390" width="241" height="29" as="geometry"/>
+          <mxGeometry x="1356" y="393" width="241" height="29" as="geometry"/>
         </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-96" value="账户匹配" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#000000;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1543" y="393" width="55" height="21.5" as="geometry"/>
+          <mxGeometry x="1468" y="396" width="55" height="21.5" as="geometry"/>
         </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-97" value="金额计算" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#000000;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1608" y="393" width="55" height="21.5" as="geometry"/>
+          <mxGeometry x="1533" y="396" width="55" height="21.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="WuDVw0VJNBnb_lz2KvEd-102" value="计划执行模式匹配层" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1356" y="427" width="309" height="29" as="geometry"/>
+        </mxCell>
+        <mxCell id="WuDVw0VJNBnb_lz2KvEd-104" value="顺序无关" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#000000;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1468" y="430.75" width="55" height="21.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="WuDVw0VJNBnb_lz2KvEd-105" value="顺序相关" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#000000;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1533" y="430.75" width="55" height="21.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="WuDVw0VJNBnb_lz2KvEd-106" value="并行无关" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#000000;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1597" y="430.75" width="55" height="21.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="WuDVw0VJNBnb_lz2KvEd-107" value="按模式执行层" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1356" y="461" width="310" height="131" as="geometry"/>
+        </mxCell>
+        <mxCell id="WuDVw0VJNBnb_lz2KvEd-108" value="单个计划执行器匹配层" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1378" y="486" width="277" height="56" as="geometry"/>
+        </mxCell>
+        <mxCell id="WuDVw0VJNBnb_lz2KvEd-109" value="单个计划执行层" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1378" y="551" width="278" height="28" as="geometry"/>
+        </mxCell>
+        <mxCell id="WuDVw0VJNBnb_lz2KvEd-110" value="联机" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#000000;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1515" y="490" width="55" height="21.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="WuDVw0VJNBnb_lz2KvEd-111" value="批量" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#000000;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1581" y="490" width="55" height="21.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="WuDVw0VJNBnb_lz2KvEd-112" value="联机带台账" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#000000;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1501" y="515.75" width="69" height="21.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="WuDVw0VJNBnb_lz2KvEd-113" value="批量带台账" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#000000;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1581" y="515.75" width="67" height="21.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="WuDVw0VJNBnb_lz2KvEd-115" value="生成清算流水" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#000000;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1467.5" y="554.25" width="77.5" height="21.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="WuDVw0VJNBnb_lz2KvEd-116" value="清算Action匹配层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#000000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1552" y="554.25" width="99" height="21.5" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
