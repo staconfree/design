@@ -1,4 +1,4 @@
-<mxfile modified="2019-12-25T08:48:54.718Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="LUOrmmWgHGWXqIwZqmcq" version="12.4.3" type="github" pages="1">
+<mxfile modified="2019-12-25T09:19:45.320Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="vtMjU2-oiJVv4sp-Q3sb" version="12.4.3" type="github" pages="1">
   <diagram id="kjUhLuTlYEf19-uYpVck" name="ÃÂÃÂ§ÃÂÃÂ¬ÃÂÃÂ¬ 1 ÃÂÃÂ©ÃÂÃÂ¡ÃÂÃÂµ">
     <mxGraphModel dx="2221" dy="2790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2091,7 +2091,7 @@
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-87" value="批量API" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1904" y="238" width="92" height="32" as="geometry"/>
         </mxCell>
-        <mxCell id="WuDVw0VJNBnb_lz2KvEd-88" value="非金融FACILITY" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="WuDVw0VJNBnb_lz2KvEd-88" value="查询类FACILITY" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="2031" y="239" width="92" height="32" as="geometry"/>
         </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-89" value="监听异步联机回执" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
