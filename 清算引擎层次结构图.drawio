@@ -1,4 +1,4 @@
-<mxfile modified="2019-12-25T07:06:38.349Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="9igFBIE0QxjRtQviiBxq" version="12.4.3" type="github" pages="1">
+<mxfile modified="2019-12-25T08:08:43.580Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="1VKeNz8LgaJSc-1skvjE" version="12.4.3" type="github" pages="1">
   <diagram id="kjUhLuTlYEf19-uYpVck" name="ÃÂÃÂ§ÃÂÃÂ¬ÃÂÃÂ¬ 1 ÃÂÃÂ©ÃÂÃÂ¡ÃÂÃÂµ">
     <mxGraphModel dx="2221" dy="2790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2054,6 +2054,9 @@
         </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-74" value="CORE" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#CC99FF;" vertex="1" parent="1">
           <mxGeometry x="1777" y="369" width="92" height="32" as="geometry"/>
+        </mxCell>
+        <mxCell id="WuDVw0VJNBnb_lz2KvEd-122" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#99CCFF;fontColor=#000000;exitX=0.587;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WuDVw0VJNBnb_lz2KvEd-75" target="WuDVw0VJNBnb_lz2KvEd-117">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-75" value="ONLINE" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#99CCFF;" vertex="1" parent="1">
           <mxGeometry x="1904" y="369" width="92" height="32" as="geometry"/>
