@@ -1,4 +1,4 @@
-<mxfile modified="2019-12-25T08:08:43.580Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="1VKeNz8LgaJSc-1skvjE" version="12.4.3" type="github" pages="1">
+<mxfile modified="2019-12-25T08:11:33.626Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="uRzuI-geyWfaxhK4NcKe" version="12.4.3" type="github" pages="1">
   <diagram id="kjUhLuTlYEf19-uYpVck" name="ÃÂÃÂ§ÃÂÃÂ¬ÃÂÃÂ¬ 1 ÃÂÃÂ©ÃÂÃÂ¡ÃÂÃÂµ">
     <mxGraphModel dx="2221" dy="2790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2061,6 +2061,9 @@
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-75" value="ONLINE" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#99CCFF;" vertex="1" parent="1">
           <mxGeometry x="1904" y="369" width="92" height="32" as="geometry"/>
         </mxCell>
+        <mxCell id="WuDVw0VJNBnb_lz2KvEd-126" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFCC99;fontColor=#000000;" edge="1" parent="1" source="WuDVw0VJNBnb_lz2KvEd-76" target="WuDVw0VJNBnb_lz2KvEd-123">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-76" value="BATCH" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#FFCC99;" vertex="1" parent="1">
           <mxGeometry x="2031" y="370" width="92" height="32" as="geometry"/>
         </mxCell>
@@ -2152,13 +2155,22 @@
           <mxGeometry x="1552" y="554.25" width="99" height="21.5" as="geometry"/>
         </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-117" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot; color=&quot;#FFFFFF&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ONLINE&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;fontColor=#3399FF;align=left;dashed=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2177" y="284" width="251" height="75" as="geometry"/>
+          <mxGeometry x="2177" y="284" width="267" height="75" as="geometry"/>
         </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-118" value="联机Action实现层" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="2201" y="315" width="216" height="29" as="geometry"/>
         </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-119" value="生成清算Log流水" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#000000;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
           <mxGeometry x="2310" y="318.75" width="100" height="21.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="WuDVw0VJNBnb_lz2KvEd-123" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot; color=&quot;#FFFFFF&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; BATCH&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCC99;fontColor=#3399FF;align=left;dashed=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="2177" y="397" width="267" height="75" as="geometry"/>
+        </mxCell>
+        <mxCell id="WuDVw0VJNBnb_lz2KvEd-124" value="联机Action实现层" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="2201" y="428" width="216" height="29" as="geometry"/>
+        </mxCell>
+        <mxCell id="WuDVw0VJNBnb_lz2KvEd-125" value="生成清算Log流水" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#000000;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="431.75" width="100" height="21.5" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
