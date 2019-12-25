@@ -1,4 +1,4 @@
-<mxfile modified="2019-12-25T06:25:53.729Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="AqNfcMGmTgNbOX5JnQxt" version="12.4.3" type="github" pages="1">
+<mxfile modified="2019-12-25T06:26:26.334Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="ni-M6lEsHjrudjhm0KKT" version="12.4.3" type="github" pages="1">
   <diagram id="kjUhLuTlYEf19-uYpVck" name="ÃÂÃÂ§ÃÂÃÂ¬ÃÂÃÂ¬ 1 ÃÂÃÂ©ÃÂÃÂ¡ÃÂÃÂµ">
     <mxGraphModel dx="2221" dy="2790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2059,37 +2059,37 @@
           <mxGeometry x="1739" y="377" width="92" height="32" as="geometry"/>
         </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-77" value="底层基础" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1451" y="443" width="400" height="119" as="geometry"/>
+          <mxGeometry x="1451" y="437" width="400" height="119" as="geometry"/>
         </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-78" value="COMMON-DEF" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1485" y="480" width="92" height="32" as="geometry"/>
+          <mxGeometry x="1485" y="474" width="92" height="32" as="geometry"/>
         </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-79" value="MOCK" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1612" y="480" width="92" height="32" as="geometry"/>
+          <mxGeometry x="1612" y="474" width="92" height="32" as="geometry"/>
         </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-80" value="TEST" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1739" y="481" width="92" height="32" as="geometry"/>
+          <mxGeometry x="1739" y="475" width="92" height="32" as="geometry"/>
         </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-84" value="BOOK-CCL" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1485" y="520" width="92" height="32" as="geometry"/>
+          <mxGeometry x="1485" y="514" width="92" height="32" as="geometry"/>
         </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-85" value="对外服务" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1451" y="206" width="400" height="119" as="geometry"/>
+          <mxGeometry x="1451" y="208" width="400" height="119" as="geometry"/>
         </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-86" value="联机API" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1485" y="243" width="92" height="32" as="geometry"/>
+          <mxGeometry x="1485" y="245" width="92" height="32" as="geometry"/>
         </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-87" value="批量API" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1612" y="243" width="92" height="32" as="geometry"/>
+          <mxGeometry x="1612" y="245" width="92" height="32" as="geometry"/>
         </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-88" value="非金融FACILITY" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1739" y="244" width="92" height="32" as="geometry"/>
+          <mxGeometry x="1739" y="246" width="92" height="32" as="geometry"/>
         </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-89" value="监听异步联机回执" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1485" y="283" width="92" height="32" as="geometry"/>
+          <mxGeometry x="1485" y="285" width="92" height="32" as="geometry"/>
         </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-90" value="监听差错文件和三合一对账文件" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1612" y="283" width="92" height="32" as="geometry"/>
+          <mxGeometry x="1612" y="285" width="92" height="32" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
