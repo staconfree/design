@@ -1,4 +1,4 @@
-<mxfile modified="2019-12-30T02:35:59.516Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="EIyrVxk66PYMmXwyY4pw" version="12.4.3" type="github" pages="1">
+<mxfile modified="2019-12-30T02:38:32.806Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="sYsPP_yLEgKLG8Eg48KC" version="12.4.3" type="github" pages="1">
   <diagram id="kjUhLuTlYEf19-uYpVck" name="ÃÂÃÂ§ÃÂÃÂ¬ÃÂÃÂ¬ 1 ÃÂÃÂ©ÃÂÃÂ¡ÃÂÃÂµ">
     <mxGraphModel dx="2248" dy="2790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2574,7 +2574,7 @@
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-290" value="先批量冻结台账" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1996" y="-302" width="94" height="18" as="geometry"/>
         </mxCell>
-        <mxCell id="WuDVw0VJNBnb_lz2KvEd-291" value="将batchSeqNo2和处理状态写入表里" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="WuDVw0VJNBnb_lz2KvEd-291" value="将batchSeqNo2写入batchNo表里" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="2205" y="-118.49999999999999" width="111" height="29.5" as="geometry"/>
         </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-294" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WuDVw0VJNBnb_lz2KvEd-293" target="WuDVw0VJNBnb_lz2KvEd-279">
@@ -2591,8 +2591,8 @@
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-298" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=none;fontColor=#000000;direction=west;" vertex="1" parent="1">
           <mxGeometry x="2330.5" y="-13" width="50" height="178" as="geometry"/>
         </mxCell>
-        <mxCell id="WuDVw0VJNBnb_lz2KvEd-299" value="扫描上面的表，得到待处理的batchSeqNo2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="2302.5" y="-63.64" width="241" height="18" as="geometry"/>
+        <mxCell id="WuDVw0VJNBnb_lz2KvEd-299" value="扫描上面的batchNo表，得到待处理的batchSeqNo2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2300" y="-67.5" width="287" height="18" as="geometry"/>
         </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1" source="WuDVw0VJNBnb_lz2KvEd-300" target="WuDVw0VJNBnb_lz2KvEd-285">
           <mxGeometry relative="1" as="geometry"/>
@@ -2600,7 +2600,7 @@
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-300" value="拉起新job实例处理batchSeqNo2批次" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="2206" y="90.5" width="111" height="29.5" as="geometry"/>
         </mxCell>
-        <mxCell id="WuDVw0VJNBnb_lz2KvEd-303" value="更新表状态" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="WuDVw0VJNBnb_lz2KvEd-303" value="更新batchNo表状态" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="2353" y="200" width="111" height="29.5" as="geometry"/>
         </mxCell>
       </root>
