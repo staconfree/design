@@ -1,4 +1,4 @@
-<mxfile modified="2020-02-25T09:37:04.413Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="kOgMDjmH8Eb_ilXF24-9" version="12.7.4" type="github">
+<mxfile modified="2020-02-25T09:46:22.285Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="b3rbOfvtyHOE91LLL6Fu" version="12.7.4" type="github">
   <diagram id="kjUhLuTlYEf19-uYpVck" name="ÃÂÃÂ§ÃÂÃÂ¬ÃÂÃÂ¬ 1 ÃÂÃÂ©ÃÂÃÂ¡ÃÂÃÂµ">
     <mxGraphModel dx="1667" dy="2478" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2649,8 +2649,8 @@
         <mxCell id="k-6fPHSiLDR8XS-HtxAt-6" value="endBatch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;align=left;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="2178" y="-1126.5" width="111" height="29.5" as="geometry" />
         </mxCell>
-        <mxCell id="k-6fPHSiLDR8XS-HtxAt-7" value="batchSeqNo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="2356" y="-1090.5" width="78" height="18" as="geometry" />
+        <mxCell id="k-6fPHSiLDR8XS-HtxAt-7" value="batchSeqNo-批次流水号&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font color=&quot;#FF33FF&quot;&gt;该batchSeqNo贯穿整个批量清算过程，&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#FF33FF&quot;&gt;标识过程中的数据属于同一批次&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2358" y="-1093.5" width="222" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k-6fPHSiLDR8XS-HtxAt-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontColor=#000000;" edge="1" source="k-6fPHSiLDR8XS-HtxAt-9" target="k-6fPHSiLDR8XS-HtxAt-12" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2692,6 +2692,41 @@
         </mxCell>
         <mxCell id="k-6fPHSiLDR8XS-HtxAt-19" value="批量开始" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;align=left;" vertex="1" parent="1">
           <mxGeometry x="2206" y="-1286" width="55" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="k-6fPHSiLDR8XS-HtxAt-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontColor=#FF33FF;dashed=1;" edge="1" parent="1" source="k-6fPHSiLDR8XS-HtxAt-25" target="k-6fPHSiLDR8XS-HtxAt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k-6fPHSiLDR8XS-HtxAt-25" value="1、批量开始" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="1983" y="-1218.75" width="77" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="k-6fPHSiLDR8XS-HtxAt-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=1;fontColor=#FF33FF;" edge="1" parent="1" source="k-6fPHSiLDR8XS-HtxAt-26" target="k-6fPHSiLDR8XS-HtxAt-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k-6fPHSiLDR8XS-HtxAt-26" value="2、循环供数清算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="1983" y="-1171.5" width="101" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="k-6fPHSiLDR8XS-HtxAt-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=1;fontColor=#FF33FF;" edge="1" parent="1" source="k-6fPHSiLDR8XS-HtxAt-27" target="k-6fPHSiLDR8XS-HtxAt-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k-6fPHSiLDR8XS-HtxAt-27" value="&lt;div&gt;3、批量结束&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="1983" y="-1120.75" width="77" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="k-6fPHSiLDR8XS-HtxAt-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=1;fontColor=#FF33FF;" edge="1" parent="1" source="k-6fPHSiLDR8XS-HtxAt-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2164" y="-1032.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k-6fPHSiLDR8XS-HtxAt-31" value="&lt;div&gt;4、查询清算引擎是否&lt;/div&gt;&lt;div&gt;完成去盘和回盘处理&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="1983" y="-1048.75" width="125" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="k-6fPHSiLDR8XS-HtxAt-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.457;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeWidth=1;fontColor=#FF33FF;" edge="1" parent="1" source="k-6fPHSiLDR8XS-HtxAt-33" target="k-6fPHSiLDR8XS-HtxAt-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k-6fPHSiLDR8XS-HtxAt-33" value="&lt;div&gt;5、循环查询每一条&lt;/div&gt;&lt;div&gt;数据的清算结果&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="1983" y="-949" width="113" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="k-6fPHSiLDR8XS-HtxAt-35" value="&lt;div&gt;清算引擎在endBatch之后会靠内置&lt;/div&gt;&lt;div&gt;定时任务自动生成去盘文件给dep/upp，&lt;br&gt;以及自动的接收回盘文件更新状态&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FF33FF;" vertex="1" parent="1">
+          <mxGeometry x="1911" y="-1101" width="223" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
