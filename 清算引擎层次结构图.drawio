@@ -1,10 +1,13 @@
-<mxfile modified="2020-02-25T09:34:51.917Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="IzetwiVblOy6vvyNFMbQ" version="12.7.4" type="github">
+<mxfile modified="2020-02-25T09:36:17.511Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="3B_Cn3tkOq4mcOhPva8Q" version="12.7.4" type="github">
   <diagram id="kjUhLuTlYEf19-uYpVck" name="ÃÂÃÂ§ÃÂÃÂ¬ÃÂÃÂ¬ 1 ÃÂÃÂ©ÃÂÃÂ¡ÃÂÃÂµ">
     <mxGraphModel dx="1667" dy="2478" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="k-6fPHSiLDR8XS-HtxAt-21" value="Loop" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="k-6fPHSiLDR8XS-HtxAt-24" value="Loop" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2147" y="-925.5" width="155" height="99.5" as="geometry" />
+        </mxCell>
+        <mxCell id="k-6fPHSiLDR8XS-HtxAt-21" value="Loop" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="2138" y="-1134" width="163" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2ygSCN0_5jZvkCvtZOCY-208" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fontFamily=Helvetica;fontSize=14;align=right;" parent="1" vertex="1">
@@ -2673,16 +2676,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k-6fPHSiLDR8XS-HtxAt-15" value="queryBucketStatus" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;align=left;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2182" y="-923.5" width="111" height="29.5" as="geometry" />
+          <mxGeometry x="2182" y="-913" width="111" height="29.5" as="geometry" />
         </mxCell>
         <mxCell id="k-6fPHSiLDR8XS-HtxAt-16" value="&lt;div&gt;更新每一条流水的处理状态&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="2182" y="-874.5" width="111" height="29.5" as="geometry" />
+          <mxGeometry x="2182" y="-864" width="111" height="29.5" as="geometry" />
         </mxCell>
         <mxCell id="k-6fPHSiLDR8XS-HtxAt-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=none;fontColor=#000000;direction=west;" vertex="1" parent="1">
           <mxGeometry x="2307.5" y="-1156" width="50" height="252.5" as="geometry" />
         </mxCell>
         <mxCell id="k-6fPHSiLDR8XS-HtxAt-18" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="2246" y="-941.5" width="22" height="18" as="geometry" />
+          <mxGeometry x="2243" y="-943.5" width="22" height="18" as="geometry" />
         </mxCell>
         <mxCell id="k-6fPHSiLDR8XS-HtxAt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="k-6fPHSiLDR8XS-HtxAt-19" target="k-6fPHSiLDR8XS-HtxAt-2">
           <mxGeometry relative="1" as="geometry" />
