@@ -1,4 +1,4 @@
-<mxfile modified="2020-02-26T13:51:37.573Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="Qz9iwNGsllu5SZ7CPnBG" version="12.7.6" type="github">
+<mxfile modified="2020-02-26T13:53:26.416Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="KesvHpoFkXXnc9xlkDA8" version="12.7.6" type="github">
   <diagram id="kjUhLuTlYEf19-uYpVck" name="ÃÂÃÂ§ÃÂÃÂ¬ÃÂÃÂ¬ 1 ÃÂÃÂ©ÃÂÃÂ¡ÃÂÃÂµ">
     <mxGraphModel dx="2102" dy="2562" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2079,10 +2079,10 @@
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-78" value="COMMON-DEF" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1777" y="554" width="92" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="WuDVw0VJNBnb_lz2KvEd-79" value="MOCK" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="WuDVw0VJNBnb_lz2KvEd-79" value="FACILITY" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1904" y="554" width="92" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="WuDVw0VJNBnb_lz2KvEd-80" value="TEST" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="WuDVw0VJNBnb_lz2KvEd-80" value="PARAM" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="2031" y="555" width="92" height="32" as="geometry" />
         </mxCell>
         <mxCell id="WuDVw0VJNBnb_lz2KvEd-84" value="BOOK-CCL" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
@@ -2727,6 +2727,12 @@
         </mxCell>
         <mxCell id="k-6fPHSiLDR8XS-HtxAt-35" value="&lt;div&gt;清算引擎在endBatch之后会靠内置&lt;/div&gt;&lt;div&gt;定时任务自动生成去盘文件给dep/upp，&lt;br&gt;以及自动的接收回盘文件更新状态&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FF33FF;" parent="1" vertex="1">
           <mxGeometry x="1911" y="-1101" width="223" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="7a34HwJiWvTMKZmcj00g-3" value="MOCK" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1904" y="593" width="92" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="7a34HwJiWvTMKZmcj00g-4" value="TEST" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="2031" y="594" width="92" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
