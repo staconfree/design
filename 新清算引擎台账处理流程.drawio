@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-17T07:57:49.215Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="q5Nl6lfJ52gF79zCMATS" version="12.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-17T08:06:32.240Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="n1YEOHTBLr0s3zUPHMfk" version="12.8.5" type="github">
   <diagram id="1T4nzOH6UP3EUPKIFWNZ" name="第 1 页">
     <mxGraphModel dx="-787" dy="2816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="VHBSoIoD1mVzgu3tyVx4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.03;entryY=0.515;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VHBSoIoD1mVzgu3tyVx4-7" target="VHBSoIoD1mVzgu3tyVx4-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VHBSoIoD1mVzgu3tyVx4-7" value="生成STB清算流水，操作台账转出" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;align=left;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="VHBSoIoD1mVzgu3tyVx4-7" value="生成STB出金流水，操作台账转出" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;align=left;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="2007" y="-2051.25" width="111" height="29.5" as="geometry" />
         </mxCell>
         <mxCell id="VHBSoIoD1mVzgu3tyVx4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VHBSoIoD1mVzgu3tyVx4-9" target="VHBSoIoD1mVzgu3tyVx4-25">
@@ -81,7 +81,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VHBSoIoD1mVzgu3tyVx4-22" value="更新STB 和 DEP清算流水为失败" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;align=left;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="VHBSoIoD1mVzgu3tyVx4-22" value="更新STB出金和DEP清算流水为失败" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;align=left;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="2287" y="-1968.5" width="111" height="29.5" as="geometry" />
         </mxCell>
         <mxCell id="VHBSoIoD1mVzgu3tyVx4-23" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
@@ -142,7 +142,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VHBSoIoD1mVzgu3tyVx4-41" value="新生成STB冲正流水进行台账转出冲正" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;align=left;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="VHBSoIoD1mVzgu3tyVx4-41" value="新生成STB出金冲正流水进行冲正" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;align=left;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="2299.5" y="-1815" width="111" height="29.5" as="geometry" />
         </mxCell>
         <mxCell id="VHBSoIoD1mVzgu3tyVx4-42" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
@@ -157,8 +157,50 @@
         <mxCell id="VHBSoIoD1mVzgu3tyVx4-45" value="返回超时" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1725" y="-1691" width="80" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="VHBSoIoD1mVzgu3tyVx4-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VHBSoIoD1mVzgu3tyVx4-46" target="VHBSoIoD1mVzgu3tyVx4-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VHBSoIoD1mVzgu3tyVx4-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VHBSoIoD1mVzgu3tyVx4-46" target="VHBSoIoD1mVzgu3tyVx4-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VHBSoIoD1mVzgu3tyVx4-46" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 是否包含台账转入？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;align=left;" vertex="1" parent="1">
           <mxGeometry x="1815.5" y="-1748.5" width="151" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="VHBSoIoD1mVzgu3tyVx4-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VHBSoIoD1mVzgu3tyVx4-47" target="VHBSoIoD1mVzgu3tyVx4-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VHBSoIoD1mVzgu3tyVx4-47" value="生成STB入金流水，操作台账转入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;align=left;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1836" y="-1686.25" width="111" height="29.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VHBSoIoD1mVzgu3tyVx4-49" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="-1711" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VHBSoIoD1mVzgu3tyVx4-50" value="&lt;div&gt;返回成功&lt;/div&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2084" y="-1691" width="80" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="VHBSoIoD1mVzgu3tyVx4-52" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1985.5" y="-1753" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VHBSoIoD1mVzgu3tyVx4-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VHBSoIoD1mVzgu3tyVx4-53" target="VHBSoIoD1mVzgu3tyVx4-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VHBSoIoD1mVzgu3tyVx4-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VHBSoIoD1mVzgu3tyVx4-53" target="VHBSoIoD1mVzgu3tyVx4-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VHBSoIoD1mVzgu3tyVx4-53" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 台账转入是否成功？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1815.5" y="-1630" width="151" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="VHBSoIoD1mVzgu3tyVx4-56" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1985.5" y="-1637" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VHBSoIoD1mVzgu3tyVx4-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VHBSoIoD1mVzgu3tyVx4-57" target="VHBSoIoD1mVzgu3tyVx4-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VHBSoIoD1mVzgu3tyVx4-57" value="写入redo表，进行打error告警" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;align=left;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1836" y="-1570" width="111" height="29.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VHBSoIoD1mVzgu3tyVx4-60" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1901.25" y="-1597" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
