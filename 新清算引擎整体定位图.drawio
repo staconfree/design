@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-15T02:57:27.042Z" agent="5.0 (Windows)" etag="24YNDN9PQeleY5NgGrev" version="12.9.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-15T02:57:48.487Z" agent="5.0 (Windows)" etag="omg35uTtry4ieg6YuieJ" version="12.9.12" type="github">
   <diagram id="a1tYPp3BrUKqBEwflOAb" name="第 1 页">
     <mxGraphModel dx="1421" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,12 +90,6 @@
         </mxCell>
         <mxCell id="M3d5OWu_3yA432DnbDmX-30" value="基础服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="21" y="527.5" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="M3d5OWu_3yA432DnbDmX-31" value="" style="endArrow=none;dashed=1;html=1;fontColor=#000000;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="480" as="sourcePoint" />
-            <mxPoint x="410" y="220" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
