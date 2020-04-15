@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2020-04-15T02:33:25.347Z" agent="5.0 (Windows)" version="12.9.12" etag="vHr23SYTIvF4oYMRYA3v" type="github"><diagram id="a1tYPp3BrUKqBEwflOAb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-15T02:47:57.901Z" agent="5.0 (Windows)" etag="9nOlBu3nWiXxbZ8mGQci" version="12.9.12" type="github">
+  <diagram id="a1tYPp3BrUKqBEwflOAb" name="第 1 页">
+    <mxGraphModel dx="1421" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="M3d5OWu_3yA432DnbDmX-1" value="微车贷" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="105" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M3d5OWu_3yA432DnbDmX-2" value="微租贷" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="270" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M3d5OWu_3yA432DnbDmX-3" value="CLR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="185" y="340" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M3d5OWu_3yA432DnbDmX-4" value="CLR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="350" y="340" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M3d5OWu_3yA432DnbDmX-5" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="95" y="380" as="sourcePoint" />
+            <mxPoint x="745" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M3d5OWu_3yA432DnbDmX-6" value="NBS中台-金融" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;strokeColor=#b85450;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="430" y="401" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M3d5OWu_3yA432DnbDmX-7" value="NBS-批量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="580" y="401" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M3d5OWu_3yA432DnbDmX-8" value="CLR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="510" y="441" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M3d5OWu_3yA432DnbDmX-9" value="CLR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="660" y="441" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M3d5OWu_3yA432DnbDmX-10" value="移动分期" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="430" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M3d5OWu_3yA432DnbDmX-12" value="农业助贷" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="580" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M3d5OWu_3yA432DnbDmX-13" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="480" as="sourcePoint" />
+            <mxPoint x="750" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
