@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-15T07:25:52.563Z" agent="5.0 (Windows)" etag="D76bWTwoIIMDrJ48YnCM" version="12.9.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-15T07:30:54.228Z" agent="5.0 (Windows)" etag="OvIwnkVKnd42yvqLlIjj" version="12.9.12" type="github">
   <diagram id="a1tYPp3BrUKqBEwflOAb" name="第 1 页">
     <mxGraphModel dx="1421" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -223,6 +223,18 @@
         </mxCell>
         <mxCell id="M3d5OWu_3yA432DnbDmX-69" value="调用API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="575" y="723" width="52" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="M3d5OWu_3yA432DnbDmX-70" value="旧清算引擎联机流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="179" y="959" width="118" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="M3d5OWu_3yA432DnbDmX-73" value="只支持一对一转账" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="256" y="864" width="106" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="M3d5OWu_3yA432DnbDmX-74" value="新清算引擎联机流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="603" y="959" width="118" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="M3d5OWu_3yA432DnbDmX-76" value="&lt;div&gt;支持一对一，&lt;/div&gt;&lt;div&gt;一对多，冻结，&lt;/div&gt;&lt;div&gt;解冻等&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="687" y="864" width="94" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
