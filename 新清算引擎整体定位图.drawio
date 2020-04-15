@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-15T02:51:49.294Z" agent="5.0 (Windows)" etag="8m_G5aUdXpRdKi6OJJ-A" version="12.9.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-15T02:53:33.484Z" agent="5.0 (Windows)" etag="DEYZrGxAWXJ36AwOAIiG" version="12.9.12" type="github">
   <diagram id="a1tYPp3BrUKqBEwflOAb" name="第 1 页">
     <mxGraphModel dx="1421" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,13 +49,13 @@
         <mxCell id="M3d5OWu_3yA432DnbDmX-19" value="头寸" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="240" y="505" width="330" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="M3d5OWu_3yA432DnbDmX-20" value="STB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+        <mxCell id="M3d5OWu_3yA432DnbDmX-20" value="STB" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="280" y="527.5" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="M3d5OWu_3yA432DnbDmX-21" value="DEP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+        <mxCell id="M3d5OWu_3yA432DnbDmX-21" value="DEP" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="380" y="527.5" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="M3d5OWu_3yA432DnbDmX-22" value="UPP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+        <mxCell id="M3d5OWu_3yA432DnbDmX-22" value="UPP" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="480" y="527.5" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
