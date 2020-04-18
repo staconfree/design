@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-04-18T12:24:20.055Z" agent="5.0 (Windows)" etag="-VJexdBFE5A4Q2GIQ9iV" version="12.9.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-18T12:26:07.977Z" agent="5.0 (Windows)" etag="bqZho6pxGgCS40TdaPqP" version="12.9.12" type="github">
   <diagram id="a1tYPp3BrUKqBEwflOAb" name="第 1 页">
     <mxGraphModel dx="867" dy="478" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-147" value="对外服务" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-147" value="对外服务" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=14;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="85" y="2239" width="397" height="145" as="geometry" />
         </mxCell>
         <mxCell id="M3d5OWu_3yA432DnbDmX-1" value="微车贷" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
@@ -536,7 +536,7 @@
         <mxCell id="z7BArUK1gWUJ_uSvDdDJ-124" value="STEP2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="755" y="1814.5" width="41" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-125" value="核心骨架" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-125" value="核心骨架" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="85" y="2386" width="399" height="87" as="geometry" />
         </mxCell>
         <mxCell id="z7BArUK1gWUJ_uSvDdDJ-126" value="CORE" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#CC99FF;" vertex="1" parent="1">
@@ -548,7 +548,7 @@
         <mxCell id="z7BArUK1gWUJ_uSvDdDJ-128" value="BATCH" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#FFCC99;" vertex="1" parent="1">
           <mxGeometry x="246" y="2424" width="92" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-129" value="底层基础" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-129" value="底层基础" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="85" y="2484" width="400" height="119" as="geometry" />
         </mxCell>
         <mxCell id="z7BArUK1gWUJ_uSvDdDJ-130" value="COMMON-DEF" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
