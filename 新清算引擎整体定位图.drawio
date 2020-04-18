@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-18T09:23:11.493Z" agent="5.0 (Windows)" etag="pKPIv_8jJQ2U_jPi-ylz" version="12.9.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-18T09:24:49.305Z" agent="5.0 (Windows)" etag="zn-wFJOeXl0q_ZJlmf_8" version="12.9.12" type="github">
   <diagram id="a1tYPp3BrUKqBEwflOAb" name="第 1 页">
     <mxGraphModel dx="867" dy="478" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -502,6 +502,12 @@
         </mxCell>
         <mxCell id="z7BArUK1gWUJ_uSvDdDJ-92" value="逾期借据状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="209" y="2132.5" width="76" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-93" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;strokeColor=#B3B3B3;fontSize=11;fontColor=#000000;align=center;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="38" y="2116" width="14" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-94" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;strokeColor=#B3B3B3;fontSize=11;fontColor=#000000;align=center;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="283" y="2112.5" width="14" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
