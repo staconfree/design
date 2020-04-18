@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-18T13:30:07.603Z" agent="5.0 (Windows)" etag="Qq-Dt4o5UZnGdfAWpzE3" version="12.9.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-18T13:31:06.594Z" agent="5.0 (Windows)" etag="1yUMmtd0N2642FwpAQit" version="12.9.12" type="github">
   <diagram id="a1tYPp3BrUKqBEwflOAb" name="第 1 页">
     <mxGraphModel dx="867" dy="478" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -620,7 +620,7 @@
         <mxCell id="z7BArUK1gWUJ_uSvDdDJ-168" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.lock_unlocked;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="548" y="2273" width="25.16" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-169" value="文件格式解析" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3700CC;fillColor=#577EFF;fontSize=14;align=left;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-169" value="选择文件格式解析器" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3700CC;fillColor=#577EFF;fontSize=14;align=left;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="583" y="2273" width="136" height="34" as="geometry" />
         </mxCell>
       </root>
