@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-18T09:21:44.779Z" agent="5.0 (Windows)" etag="kBFg4370XgMV7gWkRC4_" version="12.9.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-18T09:23:11.493Z" agent="5.0 (Windows)" etag="pKPIv_8jJQ2U_jPi-ylz" version="12.9.12" type="github">
   <diagram id="a1tYPp3BrUKqBEwflOAb" name="第 1 页">
     <mxGraphModel dx="867" dy="478" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -490,6 +490,18 @@
         </mxCell>
         <mxCell id="z7BArUK1gWUJ_uSvDdDJ-82" value="CLR2:转出-&amp;gt;转入" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;fontSize=11;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="185" y="2027" width="85" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-89" value="N" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="46" y="2128" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-90" value="正常借据状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="79" y="2132.5" width="76" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-91" value="O" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="176" y="2128" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-92" value="逾期借据状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="209" y="2132.5" width="76" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
