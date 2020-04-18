@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-18T09:10:52.343Z" agent="5.0 (Windows)" etag="uuP0gOJCzX8cVymgx1cK" version="12.9.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-18T09:11:52.645Z" agent="5.0 (Windows)" etag="kYBdy7Sw_QlDK167p-OL" version="12.9.12" type="github">
   <diagram id="a1tYPp3BrUKqBEwflOAb" name="第 1 页">
     <mxGraphModel dx="867" dy="478" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -382,6 +382,42 @@
         </mxCell>
         <mxCell id="z7BArUK1gWUJ_uSvDdDJ-45" value="CLR1:转出-&amp;gt;转入" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;fontSize=11;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="181" y="1807" width="85" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=11;fontColor=#FFFFFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="z7BArUK1gWUJ_uSvDdDJ-51" target="z7BArUK1gWUJ_uSvDdDJ-59" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-51" value="本金" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="438" y="1751" width="56" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=11;fontColor=#FFFFFF;" edge="1" source="z7BArUK1gWUJ_uSvDdDJ-53" target="z7BArUK1gWUJ_uSvDdDJ-60" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-53" value="&lt;div&gt;利息&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="438" y="1786" width="56" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=11;fontColor=#FFFFFF;" edge="1" source="z7BArUK1gWUJ_uSvDdDJ-55" target="z7BArUK1gWUJ_uSvDdDJ-59" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-55" value="罚息" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="438" y="1821" width="56" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-56" value="DEP" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#C73500;fillColor=#fa6800;align=center;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1759" width="63" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-57" value="UPP" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B09500;fillColor=#e3c800;align=center;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1808" width="63" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=11;fontColor=#FFFFFF;" edge="1" source="z7BArUK1gWUJ_uSvDdDJ-59" target="z7BArUK1gWUJ_uSvDdDJ-57" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-59" value="CLR2:转出-&amp;gt;转入" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;fontSize=11;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="547" y="1807" width="85" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-61" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=11;fontColor=#FFFFFF;" edge="1" parent="1" source="z7BArUK1gWUJ_uSvDdDJ-60" target="z7BArUK1gWUJ_uSvDdDJ-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-60" value="CLR1:转出-&amp;gt;转入" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;fontSize=11;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="547" y="1759" width="85" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
