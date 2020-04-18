@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-18T12:28:56.238Z" agent="5.0 (Windows)" etag="nh-5p5iXPCe1l6AXOMIR" version="12.9.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-18T12:38:51.085Z" agent="5.0 (Windows)" etag="wHk0VYaY6lPmnyjiyOrR" version="12.9.12" type="github">
   <diagram id="a1tYPp3BrUKqBEwflOAb" name="第 1 页">
     <mxGraphModel dx="867" dy="478" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -546,7 +546,7 @@
           <mxGeometry x="246" y="2424" width="92" height="32" as="geometry" />
         </mxCell>
         <mxCell id="z7BArUK1gWUJ_uSvDdDJ-129" value="底层基础" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="85" y="2484" width="400" height="119" as="geometry" />
+          <mxGeometry x="85" y="2484" width="400" height="157" as="geometry" />
         </mxCell>
         <mxCell id="z7BArUK1gWUJ_uSvDdDJ-130" value="COMMON-DEF" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="119" y="2521" width="92" height="32" as="geometry" />
@@ -566,8 +566,17 @@
         <mxCell id="z7BArUK1gWUJ_uSvDdDJ-141" value="TEST" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="373" y="2561" width="92" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-148" value="API接入层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;fontSize=14;align=left;gradientColor=#b3b3b3;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-148" value="API接入层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;fontSize=14;align=center;gradientColor=#b3b3b3;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="85" y="2340" width="398" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-149" value="PARAM" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="119" y="2601" width="92" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-150" value="MANAGE" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="246" y="2601" width="92" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-151" value="WEB" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="373" y="2601" width="92" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
