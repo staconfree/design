@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-18T13:01:56.039Z" agent="5.0 (Windows)" etag="VEkhedhLWA1CKewTcrM2" version="12.9.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-18T13:12:44.304Z" agent="5.0 (Windows)" etag="qVd6qSi7bceUeqg0eF1M" version="12.9.12" type="github">
   <diagram id="a1tYPp3BrUKqBEwflOAb" name="第 1 页">
     <mxGraphModel dx="867" dy="478" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -579,7 +579,7 @@
           <mxGeometry x="373" y="2601" width="92" height="32" as="geometry" />
         </mxCell>
         <mxCell id="z7BArUK1gWUJ_uSvDdDJ-152" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
-          <mxGeometry x="590" y="2358" width="289" height="228" as="geometry" />
+          <mxGeometry x="590" y="2358" width="289" height="268" as="geometry" />
         </mxCell>
         <mxCell id="z7BArUK1gWUJ_uSvDdDJ-154" value="数据初始化层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3700CC;fillColor=#577EFF;fontSize=14;align=left;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="603" y="2371" width="266" height="34" as="geometry" />
@@ -595,6 +595,18 @@
         </mxCell>
         <mxCell id="z7BArUK1gWUJ_uSvDdDJ-161" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.lock_unlocked;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="605" y="2538" width="25.16" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-162" value="选择执行计划生成器" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3700CC;fillColor=#577EFF;fontSize=14;align=left;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="640" y="2456" width="229" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-163" value="选择执行计划执行模式" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3700CC;fillColor=#577EFF;fontSize=14;align=left;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="640" y="2497" width="229" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-164" value="选择执行计划对应的接口" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3700CC;fillColor=#577EFF;fontSize=14;align=left;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="640" y="2538" width="229" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-165" value="下游接口调用层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3700CC;fillColor=#577EFF;fontSize=14;align=left;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="603" y="2580" width="266" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
