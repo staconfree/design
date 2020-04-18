@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-18T09:03:32.327Z" agent="5.0 (Windows)" etag="rhrERg2A_BqavnShzjwj" version="12.9.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-18T09:10:52.343Z" agent="5.0 (Windows)" etag="uuP0gOJCzX8cVymgx1cK" version="12.9.12" type="github">
   <diagram id="a1tYPp3BrUKqBEwflOAb" name="第 1 页">
     <mxGraphModel dx="867" dy="478" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -332,13 +332,22 @@
         <mxCell id="z7BArUK1gWUJ_uSvDdDJ-22" value="清算引擎" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="534.5" y="1554" width="85" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-28" value="本" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=11;fontColor=#FFFFFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="z7BArUK1gWUJ_uSvDdDJ-28" target="z7BArUK1gWUJ_uSvDdDJ-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-28" value="本金" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="72" y="1751" width="56" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-29" value="&lt;div&gt;利&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=11;fontColor=#FFFFFF;" edge="1" parent="1" source="z7BArUK1gWUJ_uSvDdDJ-29" target="z7BArUK1gWUJ_uSvDdDJ-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-29" value="&lt;div&gt;利息&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="72" y="1786" width="56" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-30" value="罚" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=11;fontColor=#FFFFFF;" edge="1" parent="1" source="z7BArUK1gWUJ_uSvDdDJ-30" target="z7BArUK1gWUJ_uSvDdDJ-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-30" value="罚息" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="72" y="1821" width="56" height="26" as="geometry" />
         </mxCell>
         <mxCell id="z7BArUK1gWUJ_uSvDdDJ-31" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#60A917;" vertex="1" parent="1">
@@ -361,6 +370,18 @@
         </mxCell>
         <mxCell id="z7BArUK1gWUJ_uSvDdDJ-42" value="账户管理" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#60A917;align=center;fillColor=#B9E0A5;" vertex="1" parent="1">
           <mxGeometry x="819" y="1589" width="74" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-43" value="DEP" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#C73500;fillColor=#fa6800;align=center;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="304" y="1759" width="63" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-44" value="UPP" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B09500;fillColor=#e3c800;align=center;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="304" y="1808" width="63" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=11;fontColor=#FFFFFF;" edge="1" parent="1" source="z7BArUK1gWUJ_uSvDdDJ-45" target="z7BArUK1gWUJ_uSvDdDJ-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z7BArUK1gWUJ_uSvDdDJ-45" value="CLR1:转出-&amp;gt;转入" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;fontSize=11;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="181" y="1807" width="85" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
