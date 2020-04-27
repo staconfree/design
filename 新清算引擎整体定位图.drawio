@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-27T12:32:08.790Z" agent="5.0 (Windows)" etag="P-MuFRhpsp2xijLMACgX" version="12.9.12" type="github">
+<mxfile host="www.draw.io" modified="2020-04-27T12:33:05.586Z" agent="5.0 (Windows)" etag="TW9FzR2_feTAUN6ma5Pm" version="12.9.12" type="github">
   <diagram id="a1tYPp3BrUKqBEwflOAb" name="第 1 页">
     <mxGraphModel dx="1834" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1068,7 +1068,7 @@
         <mxCell id="NXUKtpIguOKpJR7J3jXN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="NXUKtpIguOKpJR7J3jXN-21" target="NXUKtpIguOKpJR7J3jXN-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NXUKtpIguOKpJR7J3jXN-21" value="得到预生成的带可替换变量的报文" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="NXUKtpIguOKpJR7J3jXN-21" value="得到预生成的带可替换变量的报文" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="92.74999999999997" y="4454" width="179" height="61" as="geometry" />
         </mxCell>
         <mxCell id="NXUKtpIguOKpJR7J3jXN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="NXUKtpIguOKpJR7J3jXN-23" target="NXUKtpIguOKpJR7J3jXN-25">
