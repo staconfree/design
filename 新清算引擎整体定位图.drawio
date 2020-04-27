@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-27T12:45:57.007Z" agent="5.0 (Windows)" etag="Nc7ho3D7RgJ92bm3JOb0" version="12.9.12" type="github">
+<mxfile host="www.draw.io" modified="2020-04-27T13:00:07.519Z" agent="5.0 (Windows)" etag="lHxt3fjFGaIT-KkXL3LO" version="12.9.12" type="github">
   <diagram id="a1tYPp3BrUKqBEwflOAb" name="第 1 页">
     <mxGraphModel dx="1834" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1026,7 +1026,7 @@
         <mxCell id="NXUKtpIguOKpJR7J3jXN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="NXUKtpIguOKpJR7J3jXN-6" target="NXUKtpIguOKpJR7J3jXN-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NXUKtpIguOKpJR7J3jXN-6" value="解析出需要的入参数据，得到内置的request对象" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="NXUKtpIguOKpJR7J3jXN-6" value="解析出需要的入参数据，构造内置的request对象" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-220.50000000000003" y="4357" width="179" height="61" as="geometry" />
         </mxCell>
         <mxCell id="NXUKtpIguOKpJR7J3jXN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="1" source="NXUKtpIguOKpJR7J3jXN-8" target="NXUKtpIguOKpJR7J3jXN-10">
@@ -1059,7 +1059,7 @@
         <mxCell id="NXUKtpIguOKpJR7J3jXN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="NXUKtpIguOKpJR7J3jXN-18" target="NXUKtpIguOKpJR7J3jXN-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NXUKtpIguOKpJR7J3jXN-18" value="返回可替换的变量和值，得到内置的response对象" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="NXUKtpIguOKpJR7J3jXN-18" value="返回可替换的变量和值，构造内置的response对象" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="92.74999999999997" y="4355" width="179" height="61" as="geometry" />
         </mxCell>
         <mxCell id="NXUKtpIguOKpJR7J3jXN-20" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="1">
