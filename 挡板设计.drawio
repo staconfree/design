@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-05-11T15:10:11.096Z" agent="5.0 (Windows)" etag="aglcrQpmGFA1Ta5bnpgq" version="13.0.9" type="github">
+<mxfile host="www.draw.io" modified="2020-05-11T15:16:14.555Z" agent="5.0 (Windows)" etag="WLTA_4dD3WkZRS-yrZrL" version="13.0.9" type="github">
   <diagram id="ULIVXdI21FpWCyKjcMOf" name="第 1 页">
     <mxGraphModel dx="867" dy="-1922" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -391,20 +391,41 @@
         <mxCell id="K0mG1fpRfPu8U4b40gJv-117" value="构造Request对象和Response对象&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="876" y="3925" width="179" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="K0mG1fpRfPu8U4b40gJv-118" value="往request里面put参数解析器解析出来的键值&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="K0mG1fpRfPu8U4b40gJv-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K0mG1fpRfPu8U4b40gJv-118" target="K0mG1fpRfPu8U4b40gJv-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K0mG1fpRfPu8U4b40gJv-118" value="得到配置的表达式&lt;br&gt;String inputStr=&quot;&quot;;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="876" y="4026" width="179" height="61" as="geometry" />
         </mxCell>
         <mxCell id="K0mG1fpRfPu8U4b40gJv-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="K0mG1fpRfPu8U4b40gJv-119" target="K0mG1fpRfPu8U4b40gJv-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K0mG1fpRfPu8U4b40gJv-119" value="例如：&lt;br&gt;request.put(&quot;domainId&quot;,&quot;001&quot;);&lt;br&gt;request.put(&quot;productCd&quot;,&quot;2134&quot;);" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;dashed=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1117.5" y="4021.5" width="200.25" height="70" as="geometry" />
+        <mxCell id="K0mG1fpRfPu8U4b40gJv-119" value="例如inputStr如下：&lt;br&gt;if(request.get(&#39;domainId&#39;)==&#39;001&#39;&amp;amp;&amp;amp;request.get(&#39;productCd&#39;)==&#39;2134&#39;){&lt;br&gt;&amp;nbsp;response.status=&#39;SUCC&#39;;&lt;br&gt;&amp;nbsp;response.sysNo=&#39;12356774&#39;;&lt;br&gt;}else{&lt;br&gt;&amp;nbsp;response.status=&#39;FAIL&#39;;&lt;br&gt;}" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1117.5" y="4002" width="418.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="K0mG1fpRfPu8U4b40gJv-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="K0mG1fpRfPu8U4b40gJv-124" target="K0mG1fpRfPu8U4b40gJv-117">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K0mG1fpRfPu8U4b40gJv-124" value="Request request = new Request();&lt;br&gt;Response response = new Response();" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;dashed=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1114.5" y="3920.5" width="236.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="K0mG1fpRfPu8U4b40gJv-126" value="往request里面put参数解析器解析出来的键值&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="876" y="4230.5" width="179" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="K0mG1fpRfPu8U4b40gJv-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" source="K0mG1fpRfPu8U4b40gJv-128" target="K0mG1fpRfPu8U4b40gJv-126" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K0mG1fpRfPu8U4b40gJv-128" value="例如：&lt;br&gt;request.put(&quot;domainId&quot;,&quot;001&quot;);&lt;br&gt;request.put(&quot;productCd&quot;,&quot;2134&quot;);" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1117.5000000000002" y="4226" width="200.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="K0mG1fpRfPu8U4b40gJv-135" value="初始化ResponseGrammar对象" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="875.88" y="4127.5" width="179" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="K0mG1fpRfPu8U4b40gJv-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" source="K0mG1fpRfPu8U4b40gJv-137" target="K0mG1fpRfPu8U4b40gJv-135" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K0mG1fpRfPu8U4b40gJv-137" value="ResponseGrammar grammar = new ResponseGrammar(inputStr);&lt;br&gt;grammar.setRequest(request);&lt;br&gt;grammar.setResponse(response);" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1117.38" y="4123" width="289.62" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
